@@ -31,7 +31,7 @@ Model performance was assessed using accuracy score.
 
 Evaluation Metric:  
 Accuracy Score: Calculated using accuracy_score(y_test, y_pred)  
-Accuracy:  
+Accuracy: 75%  
 
 **3. Results & Insights**  
 The model effectively distinguished between positive and negative sentiments.  
