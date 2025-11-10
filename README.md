@@ -5,6 +5,7 @@
 Converted text columns to string type for consistency.  
 Handled missing values using dropna() and validation checks (isnull().sum()).  
 Removed unwanted characters, links, special symbols, and numerals using regular expressions (re).  
+
 Normalized text by:  
 Lowercasing all words.  
 Removing stopwords (e.g., “the”, “and”, “is”).  
